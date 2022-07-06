@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/14.ico</file>
+        <file>images/bfzn_backward.png</file>
+        <file>images/bfzn_forward.png</file>
+        <file>images/bfzn_next.png</file>
+        <file>images/bfzn_pause.png</file>
+        <file>images/bfzn_play.png</file>
+        <file>images/bfzn_prev.png</file>
+        <file>images/bfzn_stop.png</file>
+        <file>images/color.png</file>
+        <file>images/logo.png</file>
+        <file>images/search.png</file>
+        <file>images/start.png</file>
+        <file>images/voice_close.png</file>
+        <file>images/voice_open.png</file>
+        <file>images/topicon.bmp</file>
+        <file>images/lrc.jpg</file>
+        <file>images/randomPlayer.png</file>
+        <file>images/singlePlayer.png</file>
+        <file>images/orderPlayer.png</file>
+        <file>images/square-download.png</file>
+        <file>images/square-upload.png</file>
+        <file>images/trash-simple.png</file>
+        <file>images/zoom-2.png</file>
+        <file>images/background.jpg</file>
+    </qresource>
+</RCC>
